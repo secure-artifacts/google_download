@@ -1,0 +1,21 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build output
+build/
+dist/
+*.spec.bak
+
+# Local environment and editor files
+.env
+.env.*
+.idea/
+.vscode/
+
+# OS files and downloaded content
+.DS_Store
+Thumbs.db
+*.part
